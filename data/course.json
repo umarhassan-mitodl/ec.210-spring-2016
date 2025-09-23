@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Graphic Design"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Teaching and Education",
+      "Educational Technology"
+    ]
+  ],
+  "legacy_uid": "a11a54db-cd42-d762-1b4e-0d23c6be8fa9",
+  "instructors": {
+    "content": [
+      "4fc3c75c-a37b-74bf-75a1-7f9a7362b3ce"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "32187590-92d5-55c4-4fb4-2fb5e4feb616",
+    "website": "ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016"
+  },
+  "course_title": "Visualization for Mathematics, Science, and Technology Education",
+  "course_description": "This course is an introduction to principles and techniques of visual communication, and provides opportunities for science and engineering majors to acquire practical skills in the visual computer arts, in a studio environment. Students will learn how to create graphics for print and web, animations, and interactive media, and how to use these techniques to effectively communicate scientific and engineering concepts for learning and teaching. This class involves three hands-on creative projects, which will be presented in class.\n",
+  "department_numbers": [
+    "EC"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "EC.210",
+  "course_image_thumbnail": {
+    "content": "831e28ea-f08f-872d-aabe-ef55eac3c9b1",
+    "website": "ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016"
+  },
+  "learning_resource_types": [
+    "Media Assignments"
+  ],
+  "site_uid": "5ccc7ee2-734d-40db-9d16-64287b6759c6",
+  "site_short_id": "ec.210-spring-2016",
+  "site_url_path": "courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016",
+  "title": "Course Metadata"
+}
